@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "CG_taller_nbdev"
+  site-url: "https://UrielMendoza.github.io/CG_taller_nbdev"
+  description: "Curso piloto CentroGeo nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/UrielMendoza/CG_taller_nbdev"
