@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CG_taller_nbdev",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "CG_taller_nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "CG_taller_nbdev",
+    "section": "Install",
+    "text": "Install\npip install CG_taller_nbdev",
+    "crumbs": [
+      "CG_taller_nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "CG_taller_nbdev",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "CG_taller_nbdev"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "split_words\n\n split_words (text)\n\nUn simple ejemplo de una función que divide un texto en palabras.\n\n\n\ncount_chars\n\n count_chars (text)\n\nEsta funcion cuenta los caracteres por palabra\n\n# Prueba de la funcion\ncount_chars(string_ejemplo)\n\n\nsource\n\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
